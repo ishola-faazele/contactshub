@@ -1,6 +1,9 @@
 # ContactsHub
 
 ContactsHub is a modern contact management application that allows users to store, organize, and manage their contacts using linked list for data management. Built with Next.js for the frontend and Flask for the backend, it provides a seamless user experience with a robust backend infrastructure.
+- Backend: https://github.com/ishola-faazele/dsa-contact-manager-backend
+- Frontend: https://github.com/ishola-faazele/contactshub-nextapp
+- Linkedlist library: https://github.com/ishola-faazele/knust-coe-dsa-2024-25-group20-linkedlist
 
 ## Features
 - Add, edit, and delete contacts
