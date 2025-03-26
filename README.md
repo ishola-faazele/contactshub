@@ -57,7 +57,8 @@ Ensure you have the following installed:
 | GET    | /api/user-activities    | Get all user activities       |
 | POST   | /api/contacts    | Add a new contact      |
 | PUT    | /api/contacts/:id               | Update a contact      |
-| PATCH  | /api/contacts/:id/toggle-favorite
+| PATCH  | /api/contacts/:id/toggle-favorite| adds or remove a contact from favorites|
+| PATCH | /api/contacts/:id/set-status | changes status of contact -- active, blocked, bin |
 | DELETE | api/contacts/:id | Delete a contact      |
 
 ### Setup Frontend
