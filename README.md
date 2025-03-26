@@ -102,5 +102,5 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, reach out at [faazeleishola2030@gmail.com](mailto:your-email@example.com).
 
